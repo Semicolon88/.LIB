@@ -76,7 +76,7 @@ body, html {
   }
   .intro {
 	padding: 50vh 0;
-	background: #123 url(./burger.jpg);
+	background: #123 url(./img/burger.jpg);
 	background-size: cover;
 	background-blend-mode: multiply;
 	color: white;
