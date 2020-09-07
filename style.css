@@ -101,11 +101,19 @@ body, html {
 	font-weight: bold;
 }
 .card > img {
-	height: 270px;
+	height: 240px;
 }
 footer{
 	background-color: black;
 }
-i{
+.wrap-icon > i{
 	color: #212529;
+	width: 100px;
+	height: 100px;
+}
+.custom-text{
+	font-size: 22px;
+}
+p{
+	font-size: 16px;
 }
